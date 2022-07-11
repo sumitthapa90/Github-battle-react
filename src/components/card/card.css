@@ -1,0 +1,27 @@
+.single-card {
+  border: none;
+  width: 300px;
+  margin-top: 1rem;
+  text-align: center;
+  display: flex;
+  justify-content: center;
+  background-color: rgb(212, 209, 209);
+}
+
+.card {
+  width: 200px;
+  text-align: center;
+  color: black;
+}
+
+img {
+  width: 100%;
+}
+.flex {
+  display: flex;
+  align-items: center;
+}
+
+i {
+  margin-right: 5px;
+}

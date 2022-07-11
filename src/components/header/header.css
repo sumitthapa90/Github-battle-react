@@ -1,0 +1,15 @@
+.header {
+  display: flex;
+  justify-content: space-between;
+
+  padding: 2rem;
+}
+.header-Icon {
+  font-size: 1.5rem;
+}
+
+button {
+  padding: 0.5rem;
+  margin-left: 1rem;
+  font-weight: bold;
+}
